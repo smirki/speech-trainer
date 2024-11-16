@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "speech-trainer"
+version = "1"
+description = ""
+authors = ["Manav M <kookygavinquack@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
